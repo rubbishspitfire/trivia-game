@@ -1,0 +1,12 @@
+.body {
+ background: url(./../images/jurassic-park-background.jpg);
+ color: yellow;
+ 
+}
+
+.jumbotron {
+    text-align: center;
+    background: url(./../images/jurassic-park-background.jpg);
+
+
+}
