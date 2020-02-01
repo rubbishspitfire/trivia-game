@@ -1,5 +1,5 @@
 .choice {
-    border: 1px solid black;
+    border: 1px solid antiquewhite;
     padding: 10px;
     border-radius: 4px;
     cursor: pointer;
@@ -9,7 +9,7 @@
 }
 
 .container {
-    border: 1px solid black;
+    border: 1px solid antiquewhite;
     font: 18px;
     font-family: 'Sigmar One', cursive;
     background-color: orange;
@@ -18,11 +18,11 @@
 }
 
 body {
-    background-color: skyblue;
+    background-color: antiquewhite;
 }
 
 .jumbotron {
     background-color: orange;
-    color: black;
+    color: antiquewhite;
     text-align: center;
 }
