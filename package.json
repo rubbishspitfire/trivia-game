@@ -1,0 +1,19 @@
+{
+  "name": "trivia-game",
+  "version": "1.0.0",
+  "description": "\"Speed trivial typing game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubbishspitfire/trivia-game.git"
+  },
+  "author": "Patience Condell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubbishspitfire/trivia-game/issues"
+  },
+  "homepage": "https://github.com/rubbishspitfire/trivia-game#readme"
+}
