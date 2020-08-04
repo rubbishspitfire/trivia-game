@@ -1,4 +1,56 @@
-// Variables
+window.addEventListener('load', init);
+
+
+
+// Available levels
+const levels = {
+    easy: 10,
+    medium: 5,
+    hard: 1
+};
+
+// To change level
+const currentLevel = levels.medium;
+
+let time = currentLevel;
+let score = 0;
+let isPlaying;
+
+// DOM Elements
+const wordInput = document.querySelector('#word-input');
+const currentWord = document.querySelector('#current-word');
+const scoreDisplay = document.querySelector('#score');
+const timeDisplay = document.querySelector('#time');
+const message = document.querySelector('#message');
+const seconds = document.querySelector('#seconds');
+
+const words = [
+    'rock',
+    'developer',
+    'shoe',
+    'church',
+    'river',
+    'dust',
+    'mad',
+    'stop',
+    'forever',
+    'generate',
+    'revolver',
+    'lucky',
+    'joke',
+    'establishment',
+    'sympton',
+    'crime',
+    'geology',
+    'hero',
+    'magic',
+    'computer',
+    'echo',
+    'definition',
+    'space',
+    'javascript',
+    'science'
+];
 
 const questions = [
     {
