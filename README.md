@@ -1,12 +1,14 @@
 # Trivia-Game
+This is a word trivia game written using `HTML` and `Javascript`.
 
-# Word Trivia Game
+![](assets/images/triviagame.png)
 
-Simple word speed typing game built with Javascript
+### Instructions
+Type each word in the given amount of seconds. To play again, just type the current word. Your score will reset
 
-# Use 
 
-Run index.html in a browser
 
-Try it - https://rubbishspitfire.github.io/trivia-game/
+
+### Live Demo
+ - Click [here](https://rubbishspitfire.github.io/trivia-game/)
 
