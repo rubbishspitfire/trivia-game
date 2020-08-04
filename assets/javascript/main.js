@@ -38,7 +38,7 @@ const words = [
     'lucky',
     'joke',
     'establishment',
-    'sympton',
+    'laughter',
     'crime',
     'geology',
     'hero',
