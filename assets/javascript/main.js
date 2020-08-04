@@ -3,7 +3,7 @@ window.addEventListener('load', init);
 
 // Available levels
 const levels = {
-    easy: 10,
+    easy: 8,
     medium: 5,
     hard: 1
 };
