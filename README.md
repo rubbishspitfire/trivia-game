@@ -4,7 +4,7 @@
 
 Simple word speed typing game built with Javascript
 
-#Use 
+# Use 
 
 Run index.html in a browser
 
