@@ -3,7 +3,7 @@ window.addEventListener('load', init);
 
 // Available levels
 const levels = {
-    easy: 8,
+    easy: 7,
     medium: 5,
     hard: 1
 };
@@ -37,7 +37,7 @@ const words = [
     'revolver',
     'lucky',
     'joke',
-    'establishment',
+    'motivated',
     'laughter',
     'crime',
     'geology',
